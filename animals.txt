@@ -4,3 +4,5 @@ rabbit
 donkey
 lion
 leopard
+hyena
+puma
